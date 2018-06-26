@@ -1,3 +1,4 @@
+/*
 #include "graphshow.h"
 
 #include <iostream>
@@ -7,3 +8,4 @@ using namespace std;
 GraphShow::GraphShow(QWidget * pointerw){
 	setG
 }
+*/
